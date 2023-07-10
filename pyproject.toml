@@ -54,7 +54,7 @@ backports-datetime-fromisoformat = {version = "^1", python = "~3.6"}
 channels = ">=3, <=4"
 dataclasses = {version = "^0.7", python = "~3.6"}
 Django = ">=4"
-graphene = "^2.1"
+graphene = "*"
 graphql-core = ">=2.2"
 msgpack = ">=0.6.1, <2"
 [tool.poetry.dev-dependencies]
